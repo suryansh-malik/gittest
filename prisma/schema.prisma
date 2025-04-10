@@ -1,0 +1,41 @@
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          String   @id @default(uuid())
+  email       String   @unique
+  name        String?  // new field for storing the user's name
+  image       String?  // new field for storing the user's profile image URL
+  password    String?  // Only used for email/password authentication (hashed)
+  emailVerified DateTime? @map("email_verified")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  accounts    Account[]
+}
+
+model Account {
+  id                String   @id @default(uuid())
+  type              String   // e.g. "oauth"
+  provider          String
+  providerAccountId String
+  refresh_token     String?
+  access_token      String?
+  expires_at        Int?     // seconds since epoch
+  token_type        String?
+  scope             String?
+  id_token          String?
+  session_state     String?
+  userId            String
+  user              User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  @@unique([provider, providerAccountId])
+}
